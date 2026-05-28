@@ -1,0 +1,69 @@
+
+paotai5.png
+size: 607,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lipao1
+  rotate: true
+  xy: 151, 69
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+lipao2
+  rotate: true
+  xy: 265, 69
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+lipao3
+  rotate: true
+  xy: 379, 69
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+lipao4
+  rotate: true
+  xy: 493, 69
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+lipao5
+  rotate: true
+  xy: 151, 2
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+lipao6
+  rotate: true
+  xy: 265, 2
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+lipao7
+  rotate: true
+  xy: 379, 2
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+lipao8
+  rotate: true
+  xy: 493, 2
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 2, 2
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1

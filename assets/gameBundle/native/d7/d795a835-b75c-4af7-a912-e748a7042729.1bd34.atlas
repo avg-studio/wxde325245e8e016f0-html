@@ -1,0 +1,13 @@
+
+tielian.png
+size: 151,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao
+  rotate: false
+  xy: 2, 2
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1

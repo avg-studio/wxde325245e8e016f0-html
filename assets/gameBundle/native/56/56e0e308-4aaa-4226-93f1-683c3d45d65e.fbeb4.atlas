@@ -1,0 +1,90 @@
+
+gongzhu4.png
+size: 629,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixin
+  rotate: false
+  xy: 599, 184
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+biaoqingdaiji
+  rotate: false
+  xy: 236, 114
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+biaoqinghaipa
+  rotate: false
+  xy: 328, 114
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+biaoqingkaixin
+  rotate: false
+  xy: 420, 58
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+biaoqingshangxin
+  rotate: true
+  xy: 512, 57
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+daijishou
+  rotate: true
+  xy: 236, 30
+  size: 82, 95
+  orig: 82, 95
+  offset: 0, 0
+  index: -1
+danshou
+  rotate: true
+  xy: 413, 2
+  size: 54, 92
+  orig: 54, 92
+  offset: 0, 0
+  index: -1
+han
+  rotate: true
+  xy: 599, 164
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+kushou
+  rotate: true
+  xy: 507, 13
+  size: 42, 120
+  orig: 42, 120
+  offset: 0, 0
+  index: -1
+shenglishou
+  rotate: false
+  xy: 333, 24
+  size: 78, 88
+  orig: 78, 88
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 17
+  size: 186, 232
+  orig: 186, 232
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 420, 149
+  size: 177, 54
+  orig: 177, 54
+  offset: 0, 0
+  index: -1

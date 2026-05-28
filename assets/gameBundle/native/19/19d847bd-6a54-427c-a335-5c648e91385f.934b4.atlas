@@ -1,0 +1,125 @@
+
+mao4.png
+size: 427,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixin
+  rotate: false
+  xy: 393, 121
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+han
+  rotate: false
+  xy: 2, 4
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: false
+  xy: 297, 141
+  size: 111, 46
+  orig: 111, 46
+  offset: 0, 0
+  index: -1
+maozuo
+  rotate: false
+  xy: 2, 53
+  size: 151, 213
+  orig: 151, 213
+  offset: 0, 0
+  index: -1
+paohoutui1
+  rotate: false
+  xy: 351, 10
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+paohoutui2
+  rotate: true
+  xy: 291, 8
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+paoqiantui1
+  rotate: true
+  xy: 2, 14
+  size: 37, 81
+  orig: 37, 81
+  offset: 0, 0
+  index: -1
+paoqiantui2
+  rotate: true
+  xy: 280, 48
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+paoshenti
+  rotate: false
+  xy: 297, 189
+  size: 128, 77
+  orig: 128, 77
+  offset: 0, 0
+  index: -1
+paotou
+  rotate: false
+  xy: 155, 121
+  size: 140, 145
+  orig: 140, 145
+  offset: 0, 0
+  index: -1
+paoweiba
+  rotate: true
+  xy: 85, 6
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+shengxin
+  rotate: false
+  xy: 155, 48
+  size: 107, 71
+  orig: 107, 71
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 389, 12
+  size: 36, 70
+  orig: 36, 70
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 153, 6
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 224, 2
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 264, 48
+  size: 71, 14
+  orig: 71, 14
+  offset: 0, 0
+  index: -1
+zhenjing
+  rotate: false
+  xy: 297, 84
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1

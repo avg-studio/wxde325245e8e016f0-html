@@ -1,0 +1,27 @@
+
+5.png
+size: 403,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: true
+  xy: 228, 2
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+secai
+  rotate: false
+  xy: 228, 94
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 51
+  size: 224, 216
+  orig: 224, 216
+  offset: 0, 0
+  index: -1

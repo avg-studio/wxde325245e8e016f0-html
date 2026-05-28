@@ -1,0 +1,48 @@
+
+xuehua.png
+size: 61,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuehua1
+  rotate: false
+  xy: 2, 2
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+xuehua2
+  rotate: false
+  xy: 2, 2
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+xuehua3
+  rotate: false
+  xy: 2, 2
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+xuehua4
+  rotate: false
+  xy: 2, 36
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+xuehua5
+  rotate: false
+  xy: 2, 36
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+xuehua6
+  rotate: false
+  xy: 2, 36
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1

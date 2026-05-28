@@ -1,0 +1,27 @@
+
+shengjiangzhu.png
+size: 123,30
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuzi
+  rotate: true
+  xy: 2, 7
+  size: 21, 57
+  orig: 21, 57
+  offset: 0, 0
+  index: -1
+zhuzidi
+  rotate: false
+  xy: 92, 14
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+zhuzidi2
+  rotate: false
+  xy: 61, 2
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1

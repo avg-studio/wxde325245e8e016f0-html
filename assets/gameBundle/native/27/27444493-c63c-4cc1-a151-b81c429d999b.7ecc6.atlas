@@ -1,0 +1,132 @@
+
+longtou_s_2.png
+size: 376,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ce_shetou
+  rotate: false
+  xy: 318, 619
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+ce_tou1
+  rotate: true
+  xy: 252, 884
+  size: 149, 118
+  orig: 149, 118
+  offset: 0, 0
+  index: -1
+ce_tou2
+  rotate: true
+  xy: 248, 602
+  size: 146, 68
+  orig: 146, 68
+  offset: 0, 0
+  index: -1
+ce_yachi
+  rotate: false
+  xy: 362, 724
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+f06
+  rotate: true
+  xy: 303, 470
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+f08
+  rotate: true
+  xy: 171, 33
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+f09
+  rotate: true
+  xy: 239, 33
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+linghun
+  rotate: false
+  xy: 318, 676
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+ph1
+  rotate: false
+  xy: 236, 293
+  size: 138, 175
+  orig: 138, 175
+  offset: 0, 0
+  index: -1
+ph2
+  rotate: false
+  xy: 2, 2
+  size: 167, 207
+  orig: 167, 207
+  offset: 0, 0
+  index: -1
+ph3
+  rotate: true
+  xy: 2, 413
+  size: 194, 232
+  orig: 194, 232
+  offset: 0, 0
+  index: -1
+ph4
+  rotate: true
+  xy: 2, 609
+  size: 207, 244
+  orig: 207, 244
+  offset: 0, 0
+  index: -1
+ph5
+  rotate: true
+  xy: 2, 818
+  size: 215, 248
+  orig: 215, 248
+  offset: 0, 0
+  index: -1
+ph7
+  rotate: false
+  xy: 2, 211
+  size: 223, 200
+  orig: 223, 200
+  offset: 0, 0
+  index: -1
+shetou_si
+  rotate: true
+  xy: 227, 115
+  size: 176, 132
+  orig: 176, 132
+  offset: 0, 0
+  index: -1
+zheng_shetou
+  rotate: false
+  xy: 318, 552
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+zheng_tou1
+  rotate: true
+  xy: 252, 750
+  size: 132, 113
+  orig: 132, 113
+  offset: 0, 0
+  index: -1
+zheng_tou2
+  rotate: true
+  xy: 236, 473
+  size: 127, 65
+  orig: 127, 65
+  offset: 0, 0
+  index: -1

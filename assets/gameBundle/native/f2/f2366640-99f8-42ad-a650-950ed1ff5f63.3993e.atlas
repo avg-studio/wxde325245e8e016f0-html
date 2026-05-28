@@ -1,0 +1,188 @@
+
+longtou_sd.png
+size: 1883,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f06
+  rotate: true
+  xy: 1407, 2
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+f08
+  rotate: true
+  xy: 1475, 2
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+f09
+  rotate: true
+  xy: 1543, 2
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+linghun
+  rotate: false
+  xy: 1363, 6
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+long_ce_longlin
+  rotate: true
+  xy: 1750, 7
+  size: 111, 93
+  orig: 111, 93
+  offset: 0, 0
+  index: -1
+long_ce_tou
+  rotate: false
+  xy: 1750, 120
+  size: 126, 106
+  orig: 126, 106
+  offset: 0, 0
+  index: -1
+long_ce_xiae
+  rotate: false
+  xy: 1103, 2
+  size: 102, 47
+  orig: 102, 47
+  offset: 0, 0
+  index: -1
+long_ce_yachi
+  rotate: false
+  xy: 1207, 5
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+long_ce_youyan
+  rotate: true
+  xy: 1845, 49
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+long_ce_zui
+  rotate: true
+  xy: 1687, 137
+  size: 89, 35
+  orig: 89, 35
+  offset: 0, 0
+  index: -1
+long_ce_zuoyan
+  rotate: true
+  xy: 1845, 83
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+long_zheng_tou
+  rotate: true
+  xy: 1579, 89
+  size: 137, 106
+  orig: 137, 106
+  offset: 0, 0
+  index: -1
+long_zheng_xiaba
+  rotate: false
+  xy: 1268, 5
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+long_zheng_yachi
+  rotate: false
+  xy: 907, 5
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+long_zheng_youyan
+  rotate: true
+  xy: 869, 2
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+long_zheng_zuoyan
+  rotate: true
+  xy: 1687, 89
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+longtou_si
+  rotate: true
+  xy: 1243, 80
+  size: 146, 126
+  orig: 146, 126
+  offset: 0, 0
+  index: -1
+maozi_ce_sd
+  rotate: true
+  xy: 1371, 84
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+maozi_ce_sd_si
+  rotate: true
+  xy: 1475, 84
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+maozi_zheng_sd
+  rotate: false
+  xy: 1611, 2
+  size: 137, 85
+  orig: 137, 85
+  offset: 0, 0
+  index: -1
+ph1
+  rotate: false
+  xy: 1103, 51
+  size: 138, 175
+  orig: 138, 175
+  offset: 0, 0
+  index: -1
+ph2
+  rotate: false
+  xy: 700, 19
+  size: 167, 207
+  orig: 167, 207
+  offset: 0, 0
+  index: -1
+ph3
+  rotate: true
+  xy: 869, 32
+  size: 194, 232
+  orig: 194, 232
+  offset: 0, 0
+  index: -1
+ph4
+  rotate: true
+  xy: 454, 19
+  size: 207, 244
+  orig: 207, 244
+  offset: 0, 0
+  index: -1
+ph5
+  rotate: true
+  xy: 204, 11
+  size: 215, 248
+  orig: 215, 248
+  offset: 0, 0
+  index: -1
+ph7
+  rotate: true
+  xy: 2, 3
+  size: 223, 200
+  orig: 223, 200
+  offset: 0, 0
+  index: -1

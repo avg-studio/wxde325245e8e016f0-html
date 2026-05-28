@@ -1,0 +1,34 @@
+
+longwei_sd.png
+size: 228,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long_weiba
+  rotate: true
+  xy: 2, 126
+  size: 102, 120
+  orig: 102, 120
+  offset: 0, 0
+  index: -1
+long_weiba_si
+  rotate: false
+  xy: 124, 108
+  size: 102, 120
+  orig: 102, 120
+  offset: 0, 0
+  index: -1
+weiba_sd
+  rotate: false
+  xy: 2, 2
+  size: 95, 122
+  orig: 95, 122
+  offset: 0, 0
+  index: -1
+weiba_sd_si
+  rotate: true
+  xy: 99, 11
+  size: 95, 122
+  orig: 95, 122
+  offset: 0, 0
+  index: -1

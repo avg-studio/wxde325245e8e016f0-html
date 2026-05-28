@@ -1,0 +1,20 @@
+
+zuantou2.png
+size: 172,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dao3
+  rotate: false
+  xy: 2, 23
+  size: 121, 31
+  orig: 121, 31
+  offset: 0, 0
+  index: -1
+daotou3
+  rotate: true
+  xy: 125, 2
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1

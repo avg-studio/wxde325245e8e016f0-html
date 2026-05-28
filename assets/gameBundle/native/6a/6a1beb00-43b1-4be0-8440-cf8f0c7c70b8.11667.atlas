@@ -1,0 +1,69 @@
+
+paotai4.png
+size: 160,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dapao1
+  rotate: false
+  xy: 2, 311
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+dapao2
+  rotate: false
+  xy: 2, 208
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+dapao3
+  rotate: false
+  xy: 2, 105
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+dapao4
+  rotate: false
+  xy: 2, 2
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+dapao5
+  rotate: false
+  xy: 81, 311
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+dapao6
+  rotate: false
+  xy: 81, 208
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+dapao7
+  rotate: false
+  xy: 81, 105
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+dapao8
+  rotate: false
+  xy: 81, 2
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 2, 414
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1

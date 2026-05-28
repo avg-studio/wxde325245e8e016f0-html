@@ -1,0 +1,20 @@
+
+baoshi3.png
+size: 198,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshi3
+  rotate: false
+  xy: 168, 138
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+guangyun2
+  rotate: false
+  xy: 2, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1

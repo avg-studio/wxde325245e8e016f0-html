@@ -1,0 +1,76 @@
+
+nvhai_bang.png
+size: 94,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lei
+  rotate: false
+  xy: 43, 19
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+lei1
+  rotate: false
+  xy: 50, 11
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+lei2
+  rotate: false
+  xy: 58, 12
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+lei3
+  rotate: false
+  xy: 88, 129
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+lei4
+  rotate: false
+  xy: 43, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+lei5
+  rotate: true
+  xy: 88, 121
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+lei6
+  rotate: false
+  xy: 43, 9
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+muzhuang2
+  rotate: false
+  xy: 67, 5
+  size: 19, 131
+  orig: 19, 131
+  offset: 0, 0
+  index: -1
+nv2
+  rotate: false
+  xy: 2, 27
+  size: 63, 109
+  orig: 63, 109
+  offset: 0, 0
+  index: -1
+shengzi2
+  rotate: false
+  xy: 2, 3
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+paiming.png
+size: 107,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paiming1
+  rotate: true
+  xy: 79, 21
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+paiming2
+  rotate: false
+  xy: 2, 2
+  size: 75, 52
+  orig: 75, 52
+  offset: 0, 0
+  index: -1

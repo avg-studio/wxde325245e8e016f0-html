@@ -1,0 +1,69 @@
+
+paotai3.png
+size: 138,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao
+  rotate: true
+  xy: 2, 410
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1
+xiaopao1
+  rotate: false
+  xy: 2, 308
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+xiaopao2
+  rotate: false
+  xy: 2, 206
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+xiaopao3
+  rotate: false
+  xy: 2, 104
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+xiaopao4
+  rotate: false
+  xy: 2, 2
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+xiaopao5
+  rotate: false
+  xy: 70, 308
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+xiaopao6
+  rotate: false
+  xy: 70, 206
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+xiaopao7
+  rotate: false
+  xy: 70, 104
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+xiaopao8
+  rotate: false
+  xy: 70, 2
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+yanjiang2.png
+size: 74,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanjiang
+  rotate: false
+  xy: 2, 2
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1

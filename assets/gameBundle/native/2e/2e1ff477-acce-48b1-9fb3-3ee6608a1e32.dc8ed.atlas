@@ -1,0 +1,20 @@
+
+longwei_kk.png
+size: 121,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wei
+  rotate: false
+  xy: 2, 116
+  size: 112, 117
+  orig: 112, 117
+  offset: 0, 0
+  index: -1
+wei_si
+  rotate: true
+  xy: 2, 2
+  size: 112, 117
+  orig: 112, 117
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+yanjiang1.png
+size: 165,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+silaimu_yy
+  rotate: false
+  xy: 78, 16
+  size: 85, 19
+  orig: 85, 19
+  offset: 0, 0
+  index: -1
+zuji1
+  rotate: false
+  xy: 2, 39
+  size: 82, 39
+  orig: 82, 39
+  offset: 0, 0
+  index: -1
+zuji2
+  rotate: false
+  xy: 2, 2
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+zuji3
+  rotate: false
+  xy: 86, 37
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1

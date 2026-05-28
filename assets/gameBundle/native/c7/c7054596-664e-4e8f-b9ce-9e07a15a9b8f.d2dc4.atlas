@@ -1,0 +1,34 @@
+
+shilaimu.png
+size: 263,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guihun
+  rotate: false
+  xy: 176, 9
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+shilaimu_daiji
+  rotate: false
+  xy: 2, 2
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+shilaimu_si
+  rotate: false
+  xy: 89, 3
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+silaimu_yy
+  rotate: false
+  xy: 176, 60
+  size: 85, 19
+  orig: 85, 19
+  offset: 0, 0
+  index: -1

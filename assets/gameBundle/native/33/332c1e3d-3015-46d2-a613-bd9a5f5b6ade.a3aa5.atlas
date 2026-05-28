@@ -1,0 +1,97 @@
+
+kuchanan1.png
+size: 563,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kucha1haipa
+  rotate: false
+  xy: 397, 78
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+kucha1ku
+  rotate: true
+  xy: 313, 60
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+kucha1kuzi
+  rotate: false
+  xy: 385, 3
+  size: 85, 55
+  orig: 85, 55
+  offset: 0, 0
+  index: -1
+kucha1shenti
+  rotate: false
+  xy: 228, 47
+  size: 83, 106
+  orig: 83, 106
+  offset: 0, 0
+  index: -1
+kucha1tou
+  rotate: false
+  xy: 2, 18
+  size: 122, 135
+  orig: 122, 135
+  offset: 0, 0
+  index: -1
+kucha1tui1
+  rotate: false
+  xy: 126, 42
+  size: 49, 111
+  orig: 49, 111
+  offset: 0, 0
+  index: -1
+kucha1tui2
+  rotate: false
+  xy: 177, 42
+  size: 49, 111
+  orig: 49, 111
+  offset: 0, 0
+  index: -1
+kucha1xiao
+  rotate: true
+  xy: 472, 88
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+kucha1youbi
+  rotate: true
+  xy: 126, 5
+  size: 35, 81
+  orig: 35, 81
+  offset: 0, 0
+  index: -1
+kucha1youshou
+  rotate: false
+  xy: 306, 2
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+kucha1zuobi
+  rotate: false
+  xy: 472, 23
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+kucha1zuoshou
+  rotate: true
+  xy: 503, 27
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 209, 10
+  size: 95, 30
+  orig: 95, 30
+  offset: 0, 0
+  index: -1

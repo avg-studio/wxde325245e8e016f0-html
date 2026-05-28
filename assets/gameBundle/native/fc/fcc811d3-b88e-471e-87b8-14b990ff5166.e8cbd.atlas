@@ -1,0 +1,20 @@
+
+qiandao.png
+size: 106,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiandao1
+  rotate: false
+  xy: 67, 39
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+qiandao2
+  rotate: false
+  xy: 2, 2
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1

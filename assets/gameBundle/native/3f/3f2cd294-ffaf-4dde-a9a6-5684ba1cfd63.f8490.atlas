@@ -1,0 +1,76 @@
+
+libao.png
+size: 338,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianji
+  rotate: false
+  xy: 2, 2
+  size: 128, 114
+  orig: 128, 114
+  offset: 0, 0
+  index: -1
+kapian
+  rotate: false
+  xy: 132, 6
+  size: 127, 110
+  orig: 127, 110
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 304, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+xx6
+  rotate: false
+  xy: 304, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 261, 3
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 304, 23
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+xx4
+  rotate: false
+  xy: 304, 23
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+xx5
+  rotate: false
+  xy: 304, 50
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+xx7
+  rotate: false
+  xy: 261, 74
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+xx8
+  rotate: false
+  xy: 261, 30
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1

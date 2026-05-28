@@ -1,0 +1,20 @@
+
+dianquan2.png
+size: 286,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian4_1
+  rotate: false
+  xy: 2, 2
+  size: 282, 49
+  orig: 282, 49
+  offset: 0, 0
+  index: -1
+dian4_2
+  rotate: false
+  xy: 2, 53
+  size: 281, 52
+  orig: 281, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+6.png
+size: 514,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 403, 99
+  size: 109, 119
+  orig: 109, 119
+  offset: 0, 0
+  index: -1
+secai
+  rotate: false
+  xy: 228, 45
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 2
+  size: 224, 216
+  orig: 224, 216
+  offset: 0, 0
+  index: -1

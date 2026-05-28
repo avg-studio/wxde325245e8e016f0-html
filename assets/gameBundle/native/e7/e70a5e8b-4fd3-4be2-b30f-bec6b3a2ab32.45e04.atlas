@@ -1,0 +1,83 @@
+
+bing_sui_1.png
+size: 425,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1
+  rotate: true
+  xy: 134, 5
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+sui1a
+  rotate: true
+  xy: 254, 313
+  size: 233, 169
+  orig: 233, 169
+  offset: 0, 0
+  index: -1
+sui1b
+  rotate: false
+  xy: 229, 168
+  size: 181, 143
+  orig: 181, 143
+  offset: 0, 0
+  index: -1
+sui1c
+  rotate: false
+  xy: 134, 49
+  size: 218, 96
+  orig: 218, 96
+  offset: 0, 0
+  index: -1
+sui1d
+  rotate: true
+  xy: 2, 16
+  size: 194, 130
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+sui1e
+  rotate: false
+  xy: 2, 212
+  size: 225, 153
+  orig: 225, 153
+  offset: 0, 0
+  index: -1
+sui1f
+  rotate: true
+  xy: 2, 367
+  size: 179, 250
+  orig: 179, 250
+  offset: 0, 0
+  index: -1
+sui2
+  rotate: false
+  xy: 354, 80
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+sui3
+  rotate: true
+  xy: 220, 2
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+sui4
+  rotate: false
+  xy: 134, 147
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1
+sui5
+  rotate: true
+  xy: 354, 24
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1

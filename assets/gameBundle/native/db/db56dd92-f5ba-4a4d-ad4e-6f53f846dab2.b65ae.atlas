@@ -1,0 +1,27 @@
+
+longwei_sb.png
+size: 118,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba_sb
+  rotate: false
+  xy: 2, 147
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+weiba_sb_si
+  rotate: false
+  xy: 2, 32
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+weiba_tui
+  rotate: false
+  xy: 2, 2
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1

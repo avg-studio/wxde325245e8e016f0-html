@@ -1,0 +1,125 @@
+
+paotai2.png
+size: 844,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gong1
+  rotate: true
+  xy: 151, 27
+  size: 108, 77
+  orig: 108, 77
+  offset: 0, 0
+  index: -1
+gong2
+  rotate: true
+  xy: 230, 27
+  size: 108, 77
+  orig: 108, 77
+  offset: 0, 0
+  index: -1
+gong3
+  rotate: true
+  xy: 309, 27
+  size: 108, 77
+  orig: 108, 77
+  offset: 0, 0
+  index: -1
+gong4
+  rotate: true
+  xy: 388, 27
+  size: 108, 77
+  orig: 108, 77
+  offset: 0, 0
+  index: -1
+gong5
+  rotate: true
+  xy: 467, 27
+  size: 108, 77
+  orig: 108, 77
+  offset: 0, 0
+  index: -1
+gong6
+  rotate: true
+  xy: 546, 27
+  size: 108, 77
+  orig: 108, 77
+  offset: 0, 0
+  index: -1
+gong7
+  rotate: true
+  xy: 686, 27
+  size: 108, 77
+  orig: 108, 77
+  offset: 0, 0
+  index: -1
+gong8
+  rotate: true
+  xy: 765, 27
+  size: 108, 77
+  orig: 108, 77
+  offset: 0, 0
+  index: -1
+jian1
+  rotate: true
+  xy: 151, 2
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+jian2
+  rotate: true
+  xy: 258, 2
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+jian3
+  rotate: true
+  xy: 365, 2
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+jian4
+  rotate: true
+  xy: 472, 2
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+jian5
+  rotate: true
+  xy: 579, 2
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+jian6
+  rotate: true
+  xy: 686, 2
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+jian7
+  rotate: false
+  xy: 625, 30
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+jian8
+  rotate: false
+  xy: 650, 30
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 2, 3
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1

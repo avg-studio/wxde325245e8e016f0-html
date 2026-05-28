@@ -1,0 +1,111 @@
+
+cunqianguan.png
+size: 1266,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuizi1
+  rotate: true
+  xy: 501, 128
+  size: 214, 205
+  orig: 214, 205
+  offset: 0, 0
+  index: -1
+sui1
+  rotate: false
+  xy: 708, 144
+  size: 108, 198
+  orig: 108, 198
+  offset: 0, 0
+  index: -1
+sui2
+  rotate: false
+  xy: 871, 8
+  size: 169, 138
+  orig: 169, 138
+  offset: 0, 0
+  index: -1
+sui3
+  rotate: true
+  xy: 818, 148
+  size: 194, 142
+  orig: 194, 142
+  offset: 0, 0
+  index: -1
+sui4
+  rotate: true
+  xy: 962, 156
+  size: 186, 127
+  orig: 186, 127
+  offset: 0, 0
+  index: -1
+sui5
+  rotate: true
+  xy: 1091, 159
+  size: 183, 113
+  orig: 183, 113
+  offset: 0, 0
+  index: -1
+sui6
+  rotate: true
+  xy: 372, 89
+  size: 253, 127
+  orig: 253, 127
+  offset: 0, 0
+  index: -1
+wn
+  rotate: false
+  xy: 1155, 39
+  size: 109, 118
+  orig: 109, 118
+  offset: 0, 0
+  index: -1
+wn1
+  rotate: false
+  xy: 538, 2
+  size: 166, 124
+  orig: 166, 124
+  offset: 0, 0
+  index: -1
+wn2
+  rotate: false
+  xy: 706, 4
+  size: 163, 122
+  orig: 163, 122
+  offset: 0, 0
+  index: -1
+wn3
+  rotate: true
+  xy: 1042, 23
+  size: 131, 111
+  orig: 131, 111
+  offset: 0, 0
+  index: -1
+wn4
+  rotate: false
+  xy: 433, 7
+  size: 103, 80
+  orig: 103, 80
+  offset: 0, 0
+  index: -1
+z1
+  rotate: true
+  xy: 1206, 249
+  size: 93, 52
+  orig: 93, 52
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 372, 3
+  size: 59, 84
+  orig: 59, 84
+  offset: 0, 0
+  index: -1
+zhu
+  rotate: false
+  xy: 2, 12
+  size: 368, 330
+  orig: 368, 330
+  offset: 0, 0
+  index: -1

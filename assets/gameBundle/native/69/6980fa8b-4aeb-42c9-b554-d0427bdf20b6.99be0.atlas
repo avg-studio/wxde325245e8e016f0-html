@@ -1,0 +1,62 @@
+
+jiesuan_biaoti.png
+size: 949,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shengli_huangguang
+  rotate: false
+  xy: 631, 88
+  size: 168, 106
+  orig: 168, 106
+  offset: 0, 0
+  index: -1
+shengli_piaodai
+  rotate: false
+  xy: 2, 161
+  size: 627, 146
+  orig: 627, 146
+  offset: 0, 0
+  index: -1
+shengli_zuoda
+  rotate: false
+  xy: 801, 189
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+shengli_zuoxiao
+  rotate: false
+  xy: 801, 32
+  size: 104, 69
+  orig: 104, 69
+  offset: 0, 0
+  index: -1
+shibai_huangguang
+  rotate: false
+  xy: 631, 196
+  size: 168, 111
+  orig: 168, 111
+  offset: 0, 0
+  index: -1
+shibai_piaodai
+  rotate: false
+  xy: 2, 13
+  size: 627, 146
+  orig: 627, 146
+  offset: 0, 0
+  index: -1
+shibai_you
+  rotate: false
+  xy: 801, 103
+  size: 146, 84
+  orig: 146, 84
+  offset: 0, 0
+  index: -1
+shibai_zuo
+  rotate: false
+  xy: 631, 2
+  size: 146, 84
+  orig: 146, 84
+  offset: 0, 0
+  index: -1

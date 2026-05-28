@@ -1,0 +1,20 @@
+
+wei_she.png
+size: 221,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shewei
+  rotate: false
+  xy: 112, 3
+  size: 107, 126
+  orig: 107, 126
+  offset: 0, 0
+  index: -1
+shewei_si
+  rotate: false
+  xy: 2, 2
+  size: 108, 127
+  orig: 108, 127
+  offset: 0, 0
+  index: -1

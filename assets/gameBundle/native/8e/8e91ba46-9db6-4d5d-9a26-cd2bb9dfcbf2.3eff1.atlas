@@ -1,0 +1,20 @@
+
+longwei_s_2.png
+size: 128,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shewei
+  rotate: true
+  xy: 2, 119
+  size: 115, 124
+  orig: 115, 124
+  offset: 0, 0
+  index: -1
+shewei_si
+  rotate: true
+  xy: 2, 2
+  size: 115, 124
+  orig: 115, 124
+  offset: 0, 0
+  index: -1
