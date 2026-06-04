@@ -1,0 +1,20 @@
+
+jiguang.png
+size: 115,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiguang
+  rotate: false
+  xy: 2, 2
+  size: 66, 187
+  orig: 66, 187
+  offset: 0, 0
+  index: -1
+leid_1
+  rotate: false
+  xy: 70, 40
+  size: 43, 149
+  orig: 43, 149
+  offset: 0, 0
+  index: -1

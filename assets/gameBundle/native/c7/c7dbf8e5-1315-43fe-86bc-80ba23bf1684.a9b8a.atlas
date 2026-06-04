@@ -1,0 +1,48 @@
+
+texiao6.png
+size: 673,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+energy_24_00000
+  rotate: true
+  xy: 2, 2
+  size: 114, 127
+  orig: 114, 127
+  offset: 0, 0
+  index: -1
+energy_24_00001
+  rotate: true
+  xy: 131, 2
+  size: 114, 127
+  orig: 114, 127
+  offset: 0, 0
+  index: -1
+energy_24_00002
+  rotate: true
+  xy: 260, 2
+  size: 114, 127
+  orig: 114, 127
+  offset: 0, 0
+  index: -1
+energy_24_00003
+  rotate: true
+  xy: 389, 2
+  size: 114, 127
+  orig: 114, 127
+  offset: 0, 0
+  index: -1
+guan
+  rotate: false
+  xy: 518, 22
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 613, 58
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

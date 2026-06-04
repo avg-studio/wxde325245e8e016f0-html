@@ -1,0 +1,41 @@
+
+wuqi2.png
+size: 382,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi2a
+  rotate: false
+  xy: 337, 44
+  size: 43, 89
+  orig: 43, 89
+  offset: 0, 0
+  index: -1
+wuqi2b
+  rotate: false
+  xy: 176, 70
+  size: 159, 63
+  orig: 159, 63
+  offset: 0, 0
+  index: -1
+wuqi2c
+  rotate: true
+  xy: 176, 23
+  size: 45, 112
+  orig: 45, 112
+  offset: 0, 0
+  index: -1
+wuqi2e
+  rotate: false
+  xy: 2, 2
+  size: 172, 131
+  orig: 172, 131
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 176, 15
+  size: 134, 6
+  orig: 134, 6
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+longtou.png
+size: 536,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f002
+  rotate: true
+  xy: 49, 9
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+f003
+  rotate: true
+  xy: 2, 3
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+f004
+  rotate: true
+  xy: 486, 2
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+f005
+  rotate: false
+  xy: 90, 11
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+f006
+  rotate: false
+  xy: 120, 17
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: true
+  xy: 251, 15
+  size: 129, 170
+  orig: 129, 170
+  offset: 0, 0
+  index: -1
+guangshu
+  rotate: true
+  xy: 486, 38
+  size: 106, 48
+  orig: 106, 48
+  offset: 0, 0
+  index: -1
+longshanger
+  rotate: false
+  xy: 2, 40
+  size: 247, 104
+  orig: 247, 104
+  offset: 0, 0
+  index: -1
+longxiaer
+  rotate: true
+  xy: 423, 7
+  size: 137, 61
+  orig: 137, 61
+  offset: 0, 0
+  index: -1

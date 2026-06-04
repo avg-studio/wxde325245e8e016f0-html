@@ -1,0 +1,55 @@
+
+longtou2.png
+size: 314,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f002
+  rotate: true
+  xy: 93, 8
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+f003
+  rotate: true
+  xy: 2, 2
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+f004
+  rotate: true
+  xy: 49, 3
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+f005
+  rotate: false
+  xy: 134, 10
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+f006
+  rotate: false
+  xy: 164, 16
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+longshanger2
+  rotate: false
+  xy: 2, 39
+  size: 247, 104
+  orig: 247, 104
+  offset: 0, 0
+  index: -1
+longxiaer
+  rotate: true
+  xy: 251, 6
+  size: 137, 61
+  orig: 137, 61
+  offset: 0, 0
+  index: -1

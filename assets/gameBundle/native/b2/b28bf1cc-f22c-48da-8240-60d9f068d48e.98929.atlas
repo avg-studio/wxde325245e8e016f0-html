@@ -1,0 +1,13 @@
+
+shui.png
+size: 305,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui
+  rotate: false
+  xy: 2, 2
+  size: 301, 320
+  orig: 301, 320
+  offset: 0, 0
+  index: -1

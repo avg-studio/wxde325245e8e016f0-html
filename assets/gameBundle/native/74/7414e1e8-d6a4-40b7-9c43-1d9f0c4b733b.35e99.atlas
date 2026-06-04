@@ -1,0 +1,34 @@
+
+paoche1.png
+size: 355,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asda0001
+  rotate: false
+  xy: 2, 2
+  size: 205, 156
+  orig: 205, 156
+  offset: 0, 0
+  index: -1
+pao1_1
+  rotate: false
+  xy: 209, 112
+  size: 144, 46
+  orig: 144, 46
+  offset: 0, 0
+  index: -1
+pao1_2
+  rotate: false
+  xy: 209, 7
+  size: 74, 103
+  orig: 74, 103
+  offset: 0, 0
+  index: -1
+pao1_3
+  rotate: true
+  xy: 285, 10
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+xiaoguai.png
+size: 222,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guai1
+  rotate: true
+  xy: 67, 66
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+guai2
+  rotate: false
+  xy: 2, 143
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+guai3
+  rotate: true
+  xy: 128, 80
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+guai4
+  rotate: true
+  xy: 2, 55
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+guai5
+  rotate: false
+  xy: 89, 156
+  size: 75, 64
+  orig: 75, 64
+  offset: 0, 0
+  index: -1
+guaiyy
+  rotate: true
+  xy: 129, 12
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+siwang1
+  rotate: false
+  xy: 2, 6
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 67, 2
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 166, 175
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: false
+  xy: 147, 45
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: true
+  xy: 52, 35
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: true
+  xy: 52, 15
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1

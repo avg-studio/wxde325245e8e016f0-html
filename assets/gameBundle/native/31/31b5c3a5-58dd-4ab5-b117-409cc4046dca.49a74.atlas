@@ -1,0 +1,41 @@
+
+texiao2.png
+size: 998,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_dmsj_0007a
+  rotate: true
+  xy: 867, 19
+  size: 152, 129
+  orig: 152, 129
+  offset: 0, 0
+  index: -1
+TX_dmsj_0008a
+  rotate: false
+  xy: 665, 23
+  size: 200, 148
+  orig: 200, 148
+  offset: 0, 0
+  index: -1
+TX_dmsj_0009a
+  rotate: false
+  xy: 447, 14
+  size: 216, 157
+  orig: 216, 157
+  offset: 0, 0
+  index: -1
+TX_dmsj_0010a
+  rotate: false
+  xy: 224, 6
+  size: 221, 165
+  orig: 221, 165
+  offset: 0, 0
+  index: -1
+TX_dmsj_0011a
+  rotate: false
+  xy: 2, 2
+  size: 220, 169
+  orig: 220, 169
+  offset: 0, 0
+  index: -1

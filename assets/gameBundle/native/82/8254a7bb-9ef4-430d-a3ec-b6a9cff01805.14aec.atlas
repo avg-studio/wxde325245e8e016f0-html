@@ -1,0 +1,48 @@
+
+shui1.png
+size: 951,696
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qipao1
+  rotate: false
+  xy: 936, 609
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+qipao2
+  rotate: false
+  xy: 914, 660
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+qipao3
+  rotate: false
+  xy: 936, 595
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+qipao4
+  rotate: false
+  xy: 914, 603
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+qipao5
+  rotate: false
+  xy: 914, 624
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+shuimian
+  rotate: false
+  xy: 2, 2
+  size: 910, 692
+  orig: 910, 692
+  offset: 0, 0
+  index: -1

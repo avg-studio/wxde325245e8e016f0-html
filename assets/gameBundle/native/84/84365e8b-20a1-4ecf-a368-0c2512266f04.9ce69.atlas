@@ -1,0 +1,181 @@
+
+nan04.png
+size: 185,1045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kucha1shenti
+  rotate: true
+  xy: 2, 358
+  size: 83, 106
+  orig: 83, 106
+  offset: 0, 0
+  index: -1
+kucha1tui1
+  rotate: false
+  xy: 131, 746
+  size: 49, 111
+  orig: 49, 111
+  offset: 0, 0
+  index: -1
+kucha1tui2
+  rotate: false
+  xy: 124, 486
+  size: 49, 111
+  orig: 49, 111
+  offset: 0, 0
+  index: -1
+kucha1zuobi
+  rotate: false
+  xy: 141, 980
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+kucha1zuoshou
+  rotate: false
+  xy: 124, 686
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+kucha7beijikuzi
+  rotate: false
+  xy: 110, 250
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+kucha7beijishenti
+  rotate: true
+  xy: 2, 294
+  size: 62, 106
+  orig: 62, 106
+  offset: 0, 0
+  index: -1
+kucha7beijishou
+  rotate: true
+  xy: 2, 800
+  size: 76, 127
+  orig: 76, 127
+  offset: 0, 0
+  index: -1
+kucha7beijishou2
+  rotate: true
+  xy: 2, 996
+  size: 47, 137
+  orig: 47, 137
+  offset: 0, 0
+  index: -1
+kucha7beijitui1
+  rotate: false
+  xy: 132, 859
+  size: 49, 119
+  orig: 49, 119
+  offset: 0, 0
+  index: -1
+kucha7beijitui2
+  rotate: true
+  xy: 2, 641
+  size: 48, 120
+  orig: 48, 120
+  offset: 0, 0
+  index: -1
+kucha7houshou
+  rotate: true
+  xy: 111, 405
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+kucha7ku
+  rotate: false
+  xy: 97, 81
+  size: 84, 88
+  orig: 84, 88
+  offset: 0, 0
+  index: -1
+kucha7kuzi
+  rotate: false
+  xy: 2, 2
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+kucha7qianshou
+  rotate: false
+  xy: 2, 230
+  size: 103, 62
+  orig: 103, 62
+  offset: 0, 0
+  index: -1
+kucha7shenti
+  rotate: true
+  xy: 2, 443
+  size: 73, 107
+  orig: 73, 107
+  offset: 0, 0
+  index: -1
+kucha7tou
+  rotate: true
+  xy: 2, 691
+  size: 107, 120
+  orig: 107, 120
+  offset: 0, 0
+  index: -1
+kucha7tui1
+  rotate: true
+  xy: 2, 518
+  size: 71, 117
+  orig: 71, 117
+  offset: 0, 0
+  index: -1
+kucha7tui2
+  rotate: true
+  xy: 2, 591
+  size: 48, 120
+  orig: 48, 120
+  offset: 0, 0
+  index: -1
+kuzha2haip
+  rotate: false
+  xy: 110, 328
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+kuzha2ku
+  rotate: false
+  xy: 2, 146
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+kuzha2kuzi
+  rotate: true
+  xy: 124, 599
+  size: 85, 55
+  orig: 85, 55
+  offset: 0, 0
+  index: -1
+kuzha2tou
+  rotate: true
+  xy: 2, 878
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+kuzha2xiao
+  rotate: false
+  xy: 107, 171
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+kuzha3youshou
+  rotate: false
+  xy: 87, 15
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1

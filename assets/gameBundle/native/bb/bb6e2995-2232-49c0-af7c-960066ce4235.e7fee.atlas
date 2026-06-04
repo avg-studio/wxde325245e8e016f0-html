@@ -1,0 +1,48 @@
+
+fanmajiang.png
+size: 628,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 264, 27
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 47
+  size: 106, 152
+  orig: 106, 152
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 570, 12
+  size: 56, 141
+  orig: 56, 141
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 156, 2
+  size: 106, 151
+  orig: 106, 151
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 366, 27
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 468, 27
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1

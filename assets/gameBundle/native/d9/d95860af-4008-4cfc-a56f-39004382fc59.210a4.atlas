@@ -1,0 +1,83 @@
+
+guowang4.png
+size: 754,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lpijian
+  rotate: true
+  xy: 247, 13
+  size: 154, 82
+  orig: 154, 82
+  offset: 0, 0
+  index: -1
+Lshenti
+  rotate: true
+  xy: 2, 11
+  size: 156, 185
+  orig: 156, 185
+  offset: 0, 0
+  index: -1
+Lshou
+  rotate: false
+  xy: 189, 11
+  size: 56, 156
+  orig: 56, 156
+  offset: 0, 0
+  index: -1
+Ltui1
+  rotate: false
+  xy: 443, 76
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+Ltui2
+  rotate: false
+  xy: 443, 76
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+biaoqing1
+  rotate: false
+  xy: 507, 9
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+biaoqing2
+  rotate: false
+  xy: 674, 91
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+biaoqingku
+  rotate: true
+  xy: 443, 2
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+biaoqingxiao
+  rotate: false
+  xy: 586, 10
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: true
+  xy: 674, 2
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 331, 52
+  size: 110, 115
+  orig: 110, 115
+  offset: 0, 0
+  index: -1

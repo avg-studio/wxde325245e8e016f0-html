@@ -1,0 +1,104 @@
+
+laotou.png
+size: 331,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chehou
+  rotate: false
+  xy: 2, 7
+  size: 124, 126
+  orig: 124, 126
+  offset: 0, 0
+  index: -1
+cheqian
+  rotate: false
+  xy: 104, 143
+  size: 115, 124
+  orig: 115, 124
+  offset: 0, 0
+  index: -1
+lun1
+  rotate: false
+  xy: 192, 61
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+lun2
+  rotate: false
+  xy: 221, 174
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+lun3
+  rotate: false
+  xy: 286, 6
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+lun4
+  rotate: false
+  xy: 221, 79
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+quan
+  rotate: true
+  xy: 316, 251
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 135
+  size: 100, 132
+  orig: 100, 132
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 128, 79
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+shoubihou
+  rotate: false
+  xy: 286, 31
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+shu
+  rotate: true
+  xy: 192, 86
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 175, 2
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+toukaixin
+  rotate: true
+  xy: 230, 21
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+tuicheshou
+  rotate: false
+  xy: 128, 5
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+shui2.png
+size: 309,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qipao1
+  rotate: false
+  xy: 273, 149
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+qipao2
+  rotate: false
+  xy: 273, 221
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+qipao3
+  rotate: true
+  xy: 295, 170
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+qipao4
+  rotate: false
+  xy: 273, 164
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+qipao5
+  rotate: false
+  xy: 273, 185
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: true
+  xy: 2, 2
+  size: 253, 269
+  orig: 253, 269
+  offset: 0, 0
+  index: -1

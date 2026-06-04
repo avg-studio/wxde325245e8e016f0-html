@@ -1,0 +1,83 @@
+
+kuchanan10.png
+size: 468,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kucha1shenti
+  rotate: false
+  xy: 222, 69
+  size: 83, 106
+  orig: 83, 106
+  offset: 0, 0
+  index: -1
+kucha1tui1
+  rotate: false
+  xy: 120, 64
+  size: 49, 111
+  orig: 49, 111
+  offset: 0, 0
+  index: -1
+kucha1tui2
+  rotate: false
+  xy: 171, 64
+  size: 49, 111
+  orig: 49, 111
+  offset: 0, 0
+  index: -1
+kucha1zuobi
+  rotate: true
+  xy: 2, 16
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+kucha1zuoshou
+  rotate: true
+  xy: 120, 3
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+kuzha2haip2
+  rotate: true
+  xy: 391, 104
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+kuzha2ku
+  rotate: true
+  xy: 307, 82
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+kuzha2kuzi
+  rotate: false
+  xy: 180, 7
+  size: 85, 55
+  orig: 85, 55
+  offset: 0, 0
+  index: -1
+kuzha2tou
+  rotate: false
+  xy: 2, 47
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+kuzha2xiao
+  rotate: true
+  xy: 267, 2
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+kuzha3youshou
+  rotate: true
+  xy: 391, 18
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1

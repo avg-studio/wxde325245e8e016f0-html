@@ -1,0 +1,69 @@
+
+dajia.png
+size: 979,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nanshouqian
+  rotate: false
+  xy: 939, 60
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+nantou
+  rotate: false
+  xy: 939, 18
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+nantui2
+  rotate: false
+  xy: 939, 117
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+wu1
+  rotate: false
+  xy: 326, 18
+  size: 154, 157
+  orig: 154, 157
+  offset: 0, 0
+  index: -1
+wu2
+  rotate: false
+  xy: 635, 19
+  size: 150, 156
+  orig: 150, 156
+  offset: 0, 0
+  index: -1
+wu3
+  rotate: false
+  xy: 787, 19
+  size: 150, 156
+  orig: 150, 156
+  offset: 0, 0
+  index: -1
+wu4
+  rotate: false
+  xy: 174, 13
+  size: 150, 162
+  orig: 150, 162
+  offset: 0, 0
+  index: -1
+wu5
+  rotate: false
+  xy: 482, 19
+  size: 151, 156
+  orig: 151, 156
+  offset: 0, 0
+  index: -1
+wu6
+  rotate: false
+  xy: 2, 2
+  size: 170, 173
+  orig: 170, 173
+  offset: 0, 0
+  index: -1

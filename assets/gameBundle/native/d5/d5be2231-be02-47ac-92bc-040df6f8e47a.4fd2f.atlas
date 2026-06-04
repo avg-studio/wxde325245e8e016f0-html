@@ -1,0 +1,83 @@
+
+guowang10.png
+size: 425,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoqing2
+  rotate: true
+  xy: 347, 159
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+biaoqing3
+  rotate: true
+  xy: 347, 78
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+biaoqingku
+  rotate: false
+  xy: 345, 14
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+biaoqingxiao
+  rotate: true
+  xy: 279, 24
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+dingpijian
+  rotate: false
+  xy: 194, 103
+  size: 151, 82
+  orig: 151, 82
+  offset: 0, 0
+  index: -1
+dingshenti
+  rotate: true
+  xy: 2, 146
+  size: 156, 190
+  orig: 156, 190
+  offset: 0, 0
+  index: -1
+dingshou
+  rotate: true
+  xy: 2, 88
+  size: 56, 145
+  orig: 56, 145
+  offset: 0, 0
+  index: -1
+dingtui1
+  rotate: true
+  xy: 2, 2
+  size: 84, 136
+  orig: 84, 136
+  offset: 0, 0
+  index: -1
+dingtui2
+  rotate: true
+  xy: 149, 16
+  size: 85, 128
+  orig: 85, 128
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: false
+  xy: 306, 239
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 194, 187
+  size: 110, 115
+  orig: 110, 115
+  offset: 0, 0
+  index: -1

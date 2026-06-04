@@ -1,0 +1,146 @@
+
+longtou_eyu.png
+size: 1904,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ce_tou1
+  rotate: true
+  xy: 1392, 16
+  size: 203, 116
+  orig: 203, 116
+  offset: 0, 0
+  index: -1
+ce_tou2
+  rotate: false
+  xy: 1647, 140
+  size: 157, 79
+  orig: 157, 79
+  offset: 0, 0
+  index: -1
+ce_yan
+  rotate: false
+  xy: 1837, 86
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+f06
+  rotate: false
+  xy: 1510, 2
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+f08
+  rotate: false
+  xy: 1592, 2
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+f09
+  rotate: false
+  xy: 1647, 72
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+linghun
+  rotate: false
+  xy: 1837, 12
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+ph1
+  rotate: false
+  xy: 1252, 44
+  size: 138, 175
+  orig: 138, 175
+  offset: 0, 0
+  index: -1
+ph2
+  rotate: false
+  xy: 957, 12
+  size: 167, 207
+  orig: 167, 207
+  offset: 0, 0
+  index: -1
+ph3
+  rotate: true
+  xy: 498, 25
+  size: 194, 232
+  orig: 194, 232
+  offset: 0, 0
+  index: -1
+ph4
+  rotate: true
+  xy: 252, 12
+  size: 207, 244
+  orig: 207, 244
+  offset: 0, 0
+  index: -1
+ph5
+  rotate: true
+  xy: 2, 4
+  size: 215, 248
+  orig: 215, 248
+  offset: 0, 0
+  index: -1
+ph7
+  rotate: false
+  xy: 732, 19
+  size: 223, 200
+  orig: 223, 200
+  offset: 0, 0
+  index: -1
+tou_si
+  rotate: true
+  xy: 1126, 16
+  size: 203, 124
+  orig: 203, 124
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 1806, 149
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+yunxx1
+  rotate: false
+  xy: 517, 6
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+yunxx2
+  rotate: false
+  xy: 536, 6
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+yunxx3
+  rotate: true
+  xy: 498, 5
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+zheng_tou1
+  rotate: false
+  xy: 1510, 70
+  size: 135, 149
+  orig: 135, 149
+  offset: 0, 0
+  index: -1
+zheng_tou2
+  rotate: false
+  xy: 1729, 25
+  size: 106, 113
+  orig: 106, 113
+  offset: 0, 0
+  index: -1

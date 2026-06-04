@@ -1,0 +1,27 @@
+
+nan2.png
+size: 1818,1419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdao
+  rotate: false
+  xy: 2, 2
+  size: 1065, 1415
+  orig: 1065, 1415
+  offset: 0, 0
+  index: -1
+jinshutiao
+  rotate: false
+  xy: 1069, 3
+  size: 615, 1414
+  orig: 615, 1414
+  offset: 0, 0
+  index: -1
+ren2
+  rotate: false
+  xy: 1686, 1030
+  size: 130, 387
+  orig: 130, 387
+  offset: 0, 0
+  index: -1

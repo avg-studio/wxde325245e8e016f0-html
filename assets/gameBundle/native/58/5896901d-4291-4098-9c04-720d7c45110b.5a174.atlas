@@ -1,0 +1,27 @@
+
+huoqiu.png
+size: 1019,363
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoqiu
+  rotate: false
+  xy: 472, 6
+  size: 355, 355
+  orig: 355, 355
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 829, 125
+  size: 188, 236
+  orig: 188, 236
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 2, 2
+  size: 359, 468
+  orig: 359, 468
+  offset: 0, 0
+  index: -1

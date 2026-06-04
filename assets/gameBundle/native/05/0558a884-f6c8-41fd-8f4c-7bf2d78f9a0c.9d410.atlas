@@ -1,0 +1,34 @@
+
+wuqi3.png
+size: 174,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ps1
+  rotate: false
+  xy: 2, 2
+  size: 131, 89
+  orig: 131, 89
+  offset: 0, 0
+  index: -1
+ps3
+  rotate: true
+  xy: 2, 133
+  size: 195, 170
+  orig: 195, 170
+  offset: 0, 0
+  index: -1
+wuqi3
+  rotate: false
+  xy: 144, 5
+  size: 24, 126
+  orig: 24, 126
+  offset: 0, 0
+  index: -1
+wuqi3yy
+  rotate: true
+  xy: 2, 93
+  size: 38, 140
+  orig: 38, 140
+  offset: 0, 0
+  index: -1

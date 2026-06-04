@@ -1,0 +1,174 @@
+
+qiu5.png
+size: 209,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv1
+  rotate: false
+  xy: 2, 485
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv10
+  rotate: false
+  xy: 2, 209
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv11
+  rotate: false
+  xy: 71, 278
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv12
+  rotate: false
+  xy: 140, 347
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv13
+  rotate: false
+  xy: 2, 140
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv14
+  rotate: false
+  xy: 71, 209
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv15
+  rotate: false
+  xy: 140, 278
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv16
+  rotate: false
+  xy: 2, 71
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv17
+  rotate: false
+  xy: 71, 140
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv18
+  rotate: false
+  xy: 140, 209
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv19
+  rotate: false
+  xy: 2, 2
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv2
+  rotate: false
+  xy: 2, 416
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv20
+  rotate: false
+  xy: 71, 71
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv21
+  rotate: false
+  xy: 140, 140
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv22
+  rotate: false
+  xy: 71, 2
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv23
+  rotate: false
+  xy: 140, 71
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv24
+  rotate: false
+  xy: 140, 2
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv3
+  rotate: false
+  xy: 71, 485
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv4
+  rotate: false
+  xy: 2, 347
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv5
+  rotate: false
+  xy: 71, 416
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv6
+  rotate: false
+  xy: 140, 485
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv7
+  rotate: false
+  xy: 2, 278
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv8
+  rotate: false
+  xy: 71, 347
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+lv9
+  rotate: false
+  xy: 140, 416
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1

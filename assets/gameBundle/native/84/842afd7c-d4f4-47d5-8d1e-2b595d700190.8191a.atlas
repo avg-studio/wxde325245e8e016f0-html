@@ -1,0 +1,34 @@
+
+shuiliu.png
+size: 330,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuiliu1
+  rotate: false
+  xy: 285, 68
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+shuiliu2
+  rotate: true
+  xy: 285, 3
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+shuiliu3
+  rotate: false
+  xy: 285, 30
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+shuiliu4
+  rotate: true
+  xy: 2, 2
+  size: 114, 281
+  orig: 114, 281
+  offset: 0, 0
+  index: -1

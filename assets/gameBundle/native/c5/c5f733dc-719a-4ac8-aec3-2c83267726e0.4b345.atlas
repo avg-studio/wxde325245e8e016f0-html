@@ -1,0 +1,90 @@
+
+kuchanan8.png
+size: 815,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kucha1shenti
+  rotate: false
+  xy: 631, 218
+  size: 83, 106
+  orig: 83, 106
+  offset: 0, 0
+  index: -1
+kucha1tui1
+  rotate: false
+  xy: 631, 10
+  size: 49, 111
+  orig: 49, 111
+  offset: 0, 0
+  index: -1
+kucha1tui2
+  rotate: false
+  xy: 682, 10
+  size: 49, 111
+  orig: 49, 111
+  offset: 0, 0
+  index: -1
+kucha1zuobi
+  rotate: true
+  xy: 749, 339
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+kucha1zuoshou
+  rotate: false
+  xy: 733, 2
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+kuzha2haip
+  rotate: false
+  xy: 733, 62
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+kuzha2ku
+  rotate: true
+  xy: 631, 123
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+kuzha2kuzi
+  rotate: true
+  xy: 716, 239
+  size: 85, 55
+  orig: 85, 55
+  offset: 0, 0
+  index: -1
+kuzha2tou
+  rotate: false
+  xy: 631, 326
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+kuzha2xiao
+  rotate: false
+  xy: 715, 139
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+kuzha3youshou
+  rotate: true
+  xy: 749, 370
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+shengzi
+  rotate: true
+  xy: 2, 14
+  size: 440, 627
+  orig: 440, 627
+  offset: 0, 0
+  index: -1

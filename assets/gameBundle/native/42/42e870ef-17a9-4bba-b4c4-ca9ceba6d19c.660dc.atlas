@@ -1,0 +1,76 @@
+
+kuchanan13.png
+size: 733,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kucha8haipa
+  rotate: false
+  xy: 580, 2
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+kucha8houshou
+  rotate: true
+  xy: 434, 74
+  size: 48, 144
+  orig: 48, 144
+  offset: 0, 0
+  index: -1
+kucha8ku
+  rotate: true
+  xy: 210, 29
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+kucha8kuzi
+  rotate: false
+  xy: 653, 12
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+kucha8qianshou
+  rotate: true
+  xy: 580, 79
+  size: 43, 144
+  orig: 43, 144
+  offset: 0, 0
+  index: -1
+kucha8shenti
+  rotate: false
+  xy: 294, 14
+  size: 69, 108
+  orig: 69, 108
+  offset: 0, 0
+  index: -1
+kucha8tou
+  rotate: true
+  xy: 2, 6
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+kucha8tui1
+  rotate: false
+  xy: 132, 18
+  size: 76, 104
+  orig: 76, 104
+  offset: 0, 0
+  index: -1
+kucha8tui2
+  rotate: false
+  xy: 365, 15
+  size: 67, 107
+  orig: 67, 107
+  offset: 0, 0
+  index: -1
+kucha8xiao
+  rotate: true
+  xy: 434, 7
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1

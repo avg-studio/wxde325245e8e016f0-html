@@ -1,0 +1,55 @@
+
+nv.png
+size: 156,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nvshenti
+  rotate: false
+  xy: 120, 45
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+nvshouhou
+  rotate: false
+  xy: 120, 2
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+nvshouqian
+  rotate: true
+  xy: 50, 5
+  size: 16, 44
+  orig: 16, 44
+  offset: 0, 0
+  index: -1
+nvtou1
+  rotate: false
+  xy: 61, 43
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+nvtoufahou
+  rotate: false
+  xy: 2, 29
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+nvtui1
+  rotate: true
+  xy: 2, 9
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+nvtui2
+  rotate: true
+  xy: 61, 23
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1

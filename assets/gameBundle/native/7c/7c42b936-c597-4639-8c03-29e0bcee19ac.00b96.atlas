@@ -1,0 +1,27 @@
+
+rongjiang2.png
+size: 54,37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feijian1
+  rotate: false
+  xy: 37, 18
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+feijian2
+  rotate: false
+  xy: 37, 4
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+feijian3
+  rotate: false
+  xy: 2, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1

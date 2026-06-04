@@ -1,0 +1,34 @@
+
+huati.png
+size: 2003,1154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hauti1
+  rotate: false
+  xy: 1305, 2
+  size: 538, 420
+  orig: 538, 420
+  offset: 0, 0
+  index: -1
+huati2
+  rotate: true
+  xy: 1305, 424
+  size: 728, 696
+  orig: 728, 696
+  offset: 0, 0
+  index: -1
+huati3
+  rotate: true
+  xy: 2, 391
+  size: 761, 1301
+  orig: 761, 1301
+  offset: 0, 0
+  index: -1
+ren2
+  rotate: false
+  xy: 2, 2
+  size: 130, 387
+  orig: 130, 387
+  offset: 0, 0
+  index: -1

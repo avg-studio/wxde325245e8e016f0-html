@@ -1,0 +1,55 @@
+
+qiang_sui.png
+size: 348,111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1
+  rotate: false
+  xy: 259, 57
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+sui2
+  rotate: false
+  xy: 129, 13
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+sui3
+  rotate: false
+  xy: 205, 37
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+sui4
+  rotate: true
+  xy: 2, 2
+  size: 107, 125
+  orig: 107, 125
+  offset: 0, 0
+  index: -1
+sui5
+  rotate: true
+  xy: 276, 12
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+sui6
+  rotate: true
+  xy: 310, 58
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+sui7
+  rotate: true
+  xy: 205, 19
+  size: 16, 69
+  orig: 16, 69
+  offset: 0, 0
+  index: -1

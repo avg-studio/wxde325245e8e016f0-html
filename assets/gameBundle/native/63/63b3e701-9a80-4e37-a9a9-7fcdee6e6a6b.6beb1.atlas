@@ -1,0 +1,27 @@
+
+rongjiang.png
+size: 312,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan2
+  rotate: false
+  xy: 248, 33
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: false
+  xy: 248, 92
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+yanjiang
+  rotate: false
+  xy: 2, 2
+  size: 244, 167
+  orig: 244, 167
+  offset: 0, 0
+  index: -1

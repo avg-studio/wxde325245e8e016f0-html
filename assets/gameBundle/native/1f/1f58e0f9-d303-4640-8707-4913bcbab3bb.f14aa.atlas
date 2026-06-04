@@ -1,0 +1,83 @@
+
+sui.png
+size: 203,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1
+  rotate: false
+  xy: 82, 13
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+sui10
+  rotate: false
+  xy: 112, 2
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+sui11
+  rotate: false
+  xy: 146, 2
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+sui12
+  rotate: false
+  xy: 112, 24
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+sui2
+  rotate: false
+  xy: 2, 2
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sui3
+  rotate: false
+  xy: 42, 2
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sui4
+  rotate: false
+  xy: 147, 28
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+sui5
+  rotate: false
+  xy: 147, 28
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+sui6
+  rotate: false
+  xy: 147, 28
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+sui7
+  rotate: false
+  xy: 180, 18
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+sui9
+  rotate: false
+  xy: 180, 18
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1

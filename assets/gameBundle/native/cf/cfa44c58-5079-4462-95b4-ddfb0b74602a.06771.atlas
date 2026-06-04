@@ -1,0 +1,83 @@
+
+kuchanan18.png
+size: 437,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kucha1shenti
+  rotate: false
+  xy: 110, 70
+  size: 83, 106
+  orig: 83, 106
+  offset: 0, 0
+  index: -1
+kucha1tui1
+  rotate: true
+  xy: 291, 127
+  size: 49, 111
+  orig: 49, 111
+  offset: 0, 0
+  index: -1
+kucha1tui2
+  rotate: true
+  xy: 291, 76
+  size: 49, 111
+  orig: 49, 111
+  offset: 0, 0
+  index: -1
+kucha1zuobi
+  rotate: false
+  xy: 404, 113
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+kucha1zuoshou
+  rotate: false
+  xy: 110, 10
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+kuzha3youshou
+  rotate: false
+  xy: 195, 28
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+ziku
+  rotate: false
+  xy: 2, 2
+  size: 85, 55
+  orig: 85, 55
+  offset: 0, 0
+  index: -1
+zitou
+  rotate: false
+  xy: 2, 59
+  size: 106, 117
+  orig: 106, 117
+  offset: 0, 0
+  index: -1
+zitou1
+  rotate: true
+  xy: 360, 4
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+zitou2
+  rotate: true
+  xy: 281, 9
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+zitou3
+  rotate: false
+  xy: 195, 94
+  size: 94, 82
+  orig: 94, 82
+  offset: 0, 0
+  index: -1

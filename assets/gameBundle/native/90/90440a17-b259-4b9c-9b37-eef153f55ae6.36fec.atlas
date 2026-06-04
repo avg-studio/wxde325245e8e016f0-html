@@ -1,0 +1,97 @@
+
+tujiu.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tu_shen
+  rotate: true
+  xy: 297, 6
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+tu_shenzi
+  rotate: false
+  xy: 427, 88
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+tu_tou
+  rotate: true
+  xy: 297, 59
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+tu_youchi
+  rotate: false
+  xy: 239, 19
+  size: 56, 107
+  orig: 56, 107
+  offset: 0, 0
+  index: -1
+tu_youjiao
+  rotate: true
+  xy: 432, 57
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+tu_youtui
+  rotate: true
+  xy: 432, 57
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+tufei_youjiao
+  rotate: true
+  xy: 432, 57
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+tufei_zuojiao
+  rotate: true
+  xy: 432, 57
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+tu_zuochi
+  rotate: false
+  xy: 170, 27
+  size: 67, 99
+  orig: 67, 99
+  offset: 0, 0
+  index: -1
+tufei_shenti
+  rotate: true
+  xy: 365, 2
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+tufei_tou
+  rotate: true
+  xy: 362, 60
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+tufei_youchi
+  rotate: true
+  xy: 2, 13
+  size: 113, 95
+  orig: 113, 95
+  offset: 0, 0
+  index: -1
+tufei_zuochi
+  rotate: false
+  xy: 99, 4
+  size: 69, 122
+  orig: 69, 122
+  offset: 0, 0
+  index: -1

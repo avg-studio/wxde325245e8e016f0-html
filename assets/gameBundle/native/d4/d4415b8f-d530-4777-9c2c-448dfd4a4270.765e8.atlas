@@ -1,0 +1,34 @@
+
+long2.png
+size: 599,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+longtou1
+  rotate: true
+  xy: 2, 4
+  size: 323, 261
+  orig: 323, 261
+  offset: 0, 0
+  index: -1
+longtou2
+  rotate: true
+  xy: 482, 84
+  size: 243, 115
+  orig: 243, 115
+  offset: 0, 0
+  index: -1
+longyan
+  rotate: true
+  xy: 482, 2
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+ph5
+  rotate: false
+  xy: 265, 79
+  size: 215, 248
+  orig: 215, 248
+  offset: 0, 0
+  index: -1

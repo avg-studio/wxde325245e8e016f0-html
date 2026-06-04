@@ -1,0 +1,76 @@
+
+kuchanan7.png
+size: 565,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kucha6haipa
+  rotate: false
+  xy: 486, 94
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+kucha6ku
+  rotate: false
+  xy: 337, 2
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+kucha6kuzi
+  rotate: false
+  xy: 229, 34
+  size: 106, 59
+  orig: 106, 59
+  offset: 0, 0
+  index: -1
+kucha6shenti
+  rotate: true
+  xy: 378, 87
+  size: 83, 106
+  orig: 83, 106
+  offset: 0, 0
+  index: -1
+kucha6tou
+  rotate: false
+  xy: 2, 55
+  size: 116, 115
+  orig: 116, 115
+  offset: 0, 0
+  index: -1
+kucha6xiao
+  rotate: false
+  xy: 436, 7
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+kucha6youshou
+  rotate: false
+  xy: 120, 95
+  size: 127, 75
+  orig: 127, 75
+  offset: 0, 0
+  index: -1
+kucha6youtui
+  rotate: false
+  xy: 120, 28
+  size: 107, 65
+  orig: 107, 65
+  offset: 0, 0
+  index: -1
+kucha6zuoshou
+  rotate: false
+  xy: 249, 95
+  size: 127, 75
+  orig: 127, 75
+  offset: 0, 0
+  index: -1
+kucha6zuotui
+  rotate: false
+  xy: 2, 3
+  size: 110, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1

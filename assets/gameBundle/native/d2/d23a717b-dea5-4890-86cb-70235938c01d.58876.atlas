@@ -1,0 +1,34 @@
+
+wuqi4.png
+size: 210,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ps1a
+  rotate: false
+  xy: 2, 63
+  size: 131, 89
+  orig: 131, 89
+  offset: 0, 0
+  index: -1
+ps3a
+  rotate: false
+  xy: 2, 154
+  size: 195, 170
+  orig: 195, 170
+  offset: 0, 0
+  index: -1
+wuqi4
+  rotate: true
+  xy: 2, 2
+  size: 59, 128
+  orig: 59, 128
+  offset: 0, 0
+  index: -1
+wuqi4yy
+  rotate: false
+  xy: 135, 10
+  size: 73, 142
+  orig: 73, 142
+  offset: 0, 0
+  index: -1

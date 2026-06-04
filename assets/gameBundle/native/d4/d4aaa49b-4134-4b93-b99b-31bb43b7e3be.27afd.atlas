@@ -1,0 +1,34 @@
+
+wuqi5.png
+size: 430,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ps1a
+  rotate: false
+  xy: 286, 8
+  size: 131, 89
+  orig: 131, 89
+  offset: 0, 0
+  index: -1
+ps3a
+  rotate: true
+  xy: 2, 2
+  size: 195, 170
+  orig: 195, 170
+  offset: 0, 0
+  index: -1
+wuqi5
+  rotate: true
+  xy: 286, 99
+  size: 98, 142
+  orig: 98, 142
+  offset: 0, 0
+  index: -1
+wuqi5yy
+  rotate: false
+  xy: 174, 43
+  size: 110, 154
+  orig: 110, 154
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+zhadan.png
+size: 180,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhadan1
+  rotate: false
+  xy: 159, 58
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+zhadan2
+  rotate: false
+  xy: 2, 2
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+zhanda3
+  rotate: false
+  xy: 86, 9
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1

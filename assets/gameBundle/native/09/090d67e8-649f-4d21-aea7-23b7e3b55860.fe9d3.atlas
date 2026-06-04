@@ -1,0 +1,174 @@
+
+paotai_hama.png
+size: 504,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di1
+  rotate: true
+  xy: 298, 61
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+di2
+  rotate: true
+  xy: 344, 71
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+di3
+  rotate: true
+  xy: 412, 140
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+di4
+  rotate: true
+  xy: 458, 140
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+di5
+  rotate: false
+  xy: 390, 94
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+di6
+  rotate: false
+  xy: 390, 48
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+di7
+  rotate: false
+  xy: 274, 2
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+di8
+  rotate: false
+  xy: 358, 2
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+ding1
+  rotate: false
+  xy: 2, 219
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+ding2
+  rotate: false
+  xy: 2, 145
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+ding3
+  rotate: false
+  xy: 116, 219
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+ding4
+  rotate: false
+  xy: 2, 71
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+ding5
+  rotate: false
+  xy: 116, 145
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+ding6
+  rotate: false
+  xy: 230, 219
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+ding7
+  rotate: false
+  xy: 116, 71
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+ding8
+  rotate: false
+  xy: 230, 145
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+qiu1
+  rotate: false
+  xy: 2, 2
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: false
+  xy: 70, 2
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+qiu3
+  rotate: false
+  xy: 138, 2
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+qiu4
+  rotate: false
+  xy: 206, 2
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+qiu5
+  rotate: false
+  xy: 344, 224
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+qiu6
+  rotate: false
+  xy: 230, 76
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+qiu7
+  rotate: false
+  xy: 344, 155
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+qiu8
+  rotate: false
+  xy: 412, 224
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1

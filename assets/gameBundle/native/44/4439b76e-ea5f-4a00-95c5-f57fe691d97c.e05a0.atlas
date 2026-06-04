@@ -1,0 +1,97 @@
+
+dazuantou.png
+size: 1336,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: true
+  xy: 1267, 156
+  size: 129, 67
+  orig: 129, 67
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: true
+  xy: 1122, 45
+  size: 148, 78
+  orig: 148, 78
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 1122, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: false
+  xy: 1165, 6
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+dian5
+  rotate: false
+  xy: 1212, 29
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+dian6
+  rotate: false
+  xy: 1202, 156
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+dian7
+  rotate: false
+  xy: 1265, 29
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+dian8
+  rotate: false
+  xy: 1202, 82
+  size: 121, 72
+  orig: 121, 72
+  offset: 0, 0
+  index: -1
+dian9
+  rotate: false
+  xy: 1122, 195
+  size: 143, 90
+  orig: 143, 90
+  offset: 0, 0
+  index: -1
+zuan1
+  rotate: true
+  xy: 2, 5
+  size: 280, 278
+  orig: 280, 278
+  offset: 0, 0
+  index: -1
+zuan2
+  rotate: true
+  xy: 282, 5
+  size: 280, 278
+  orig: 280, 278
+  offset: 0, 0
+  index: -1
+zuan3
+  rotate: true
+  xy: 562, 5
+  size: 280, 278
+  orig: 280, 278
+  offset: 0, 0
+  index: -1
+zuan4
+  rotate: true
+  xy: 842, 5
+  size: 280, 278
+  orig: 280, 278
+  offset: 0, 0
+  index: -1

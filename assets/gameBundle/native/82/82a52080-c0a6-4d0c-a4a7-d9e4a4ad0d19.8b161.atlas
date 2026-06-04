@@ -1,0 +1,160 @@
+
+longtou_gtl.png
+size: 379,1027
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cetousahng
+  rotate: true
+  xy: 236, 150
+  size: 170, 137
+  orig: 170, 137
+  offset: 0, 0
+  index: -1
+cetouxia
+  rotate: false
+  xy: 103, 47
+  size: 128, 61
+  orig: 128, 61
+  offset: 0, 0
+  index: -1
+ceyan
+  rotate: true
+  xy: 177, 14
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+f06
+  rotate: false
+  xy: 211, 532
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+f08
+  rotate: false
+  xy: 293, 532
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+f09
+  rotate: false
+  xy: 291, 786
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+linghun
+  rotate: true
+  xy: 103, 3
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+ph1
+  rotate: false
+  xy: 211, 600
+  size: 138, 175
+  orig: 138, 175
+  offset: 0, 0
+  index: -1
+ph2
+  rotate: false
+  xy: 204, 322
+  size: 167, 207
+  orig: 167, 207
+  offset: 0, 0
+  index: -1
+ph3
+  rotate: true
+  xy: 2, 110
+  size: 194, 232
+  orig: 194, 232
+  offset: 0, 0
+  index: -1
+ph4
+  rotate: false
+  xy: 2, 531
+  size: 207, 244
+  orig: 207, 244
+  offset: 0, 0
+  index: -1
+ph5
+  rotate: false
+  xy: 2, 777
+  size: 215, 248
+  orig: 215, 248
+  offset: 0, 0
+  index: -1
+ph7
+  rotate: true
+  xy: 2, 306
+  size: 223, 200
+  orig: 223, 200
+  offset: 0, 0
+  index: -1
+tou_si
+  rotate: true
+  xy: 219, 854
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 219, 782
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+yunxx1
+  rotate: false
+  xy: 358, 918
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+yunxx2
+  rotate: false
+  xy: 358, 899
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+yunxx3
+  rotate: true
+  xy: 358, 937
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+zhengtoushang
+  rotate: false
+  xy: 236, 2
+  size: 134, 146
+  orig: 134, 146
+  offset: 0, 0
+  index: -1
+zhengtouxia
+  rotate: false
+  xy: 2, 30
+  size: 99, 78
+  orig: 99, 78
+  offset: 0, 0
+  index: -1
+zhengyan1
+  rotate: false
+  xy: 358, 992
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+zhengyan2
+  rotate: false
+  xy: 358, 957
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1

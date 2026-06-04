@@ -1,0 +1,55 @@
+
+shitousui.png
+size: 211,37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui1
+  rotate: false
+  xy: 83, 3
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+sui3
+  rotate: true
+  xy: 2, 2
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+sui4
+  rotate: false
+  xy: 182, 11
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+sui5
+  rotate: false
+  xy: 122, 11
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+sui12
+  rotate: false
+  xy: 122, 11
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+sui6
+  rotate: false
+  xy: 152, 11
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+sui7
+  rotate: false
+  xy: 43, 3
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1

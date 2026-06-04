@@ -1,0 +1,48 @@
+
+nan.png
+size: 166,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nanshenti
+  rotate: false
+  xy: 2, 37
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+nanshouhou
+  rotate: true
+  xy: 108, 62
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+nanshouqian
+  rotate: true
+  xy: 108, 33
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+nantou
+  rotate: true
+  xy: 64, 5
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+nantui1
+  rotate: false
+  xy: 64, 45
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+nantui2
+  rotate: true
+  xy: 2, 2
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1

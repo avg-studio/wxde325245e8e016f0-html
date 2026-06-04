@@ -1,0 +1,90 @@
+
+zhangfei.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zf_kua
+  rotate: false
+  xy: 136, 61
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+zf_shenti
+  rotate: false
+  xy: 138, 10
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+zf_tou
+  rotate: false
+  xy: 69, 40
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+zf_tou2
+  rotate: false
+  xy: 2, 40
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+zf_wuqi
+  rotate: true
+  xy: 2, 110
+  size: 16, 202
+  orig: 16, 202
+  offset: 0, 0
+  index: -1
+zf_youjian
+  rotate: true
+  xy: 2, 2
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+zf_youshou
+  rotate: false
+  xy: 190, 8
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1
+zf_youtui
+  rotate: true
+  xy: 34, 8
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+zf_zuodabi
+  rotate: false
+  xy: 206, 101
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+zf_zuoshou
+  rotate: false
+  xy: 202, 86
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+zf_zuotui
+  rotate: true
+  xy: 87, 7
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+zf_zuoxiaobi
+  rotate: false
+  xy: 236, 105
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+longwei.png
+size: 124,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+si_weiba
+  rotate: false
+  xy: 2, 2
+  size: 59, 104
+  orig: 59, 104
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 63, 2
+  size: 59, 104
+  orig: 59, 104
+  offset: 0, 0
+  index: -1

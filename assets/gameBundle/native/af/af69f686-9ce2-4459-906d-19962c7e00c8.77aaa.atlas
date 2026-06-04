@@ -1,0 +1,90 @@
+
+kuchanan14.png
+size: 448,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kucha1shenti
+  rotate: false
+  xy: 120, 66
+  size: 83, 106
+  orig: 83, 106
+  offset: 0, 0
+  index: -1
+kucha1zuobi
+  rotate: true
+  xy: 85, 13
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+kucha1zuoshou
+  rotate: true
+  xy: 289, 5
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+kucha9shou
+  rotate: false
+  xy: 150, 2
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+kucha9shoubi
+  rotate: true
+  xy: 2, 7
+  size: 35, 81
+  orig: 35, 81
+  offset: 0, 0
+  index: -1
+kucha9tui1
+  rotate: false
+  xy: 289, 66
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+kucha9tui2
+  rotate: false
+  xy: 289, 120
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+kuzha2haip
+  rotate: false
+  xy: 216, 2
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+kuzha2ku
+  rotate: true
+  xy: 205, 79
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+kuzha2kuzi
+  rotate: true
+  xy: 381, 8
+  size: 85, 55
+  orig: 85, 55
+  offset: 0, 0
+  index: -1
+kuzha2tou
+  rotate: false
+  xy: 2, 44
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+kuzha2xiao
+  rotate: false
+  xy: 381, 95
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1

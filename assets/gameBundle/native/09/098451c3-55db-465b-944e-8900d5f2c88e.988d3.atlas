@@ -1,0 +1,62 @@
+
+texiao.png
+size: 901,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+energy_l3
+  rotate: false
+  xy: 2, 13
+  size: 356, 332
+  orig: 356, 332
+  offset: 0, 0
+  index: -1
+energy_l4
+  rotate: false
+  xy: 360, 13
+  size: 356, 332
+  orig: 356, 332
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 718, 181
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+leiming_0001
+  rotate: true
+  xy: 778, 2
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+leiming_0002
+  rotate: true
+  xy: 834, 83
+  size: 96, 65
+  orig: 96, 65
+  offset: 0, 0
+  index: -1
+leiming_0003
+  rotate: true
+  xy: 718, 18
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+leiming_0005
+  rotate: true
+  xy: 834, 4
+  size: 77, 46
+  orig: 77, 46
+  offset: 0, 0
+  index: -1
+lizi6_4
+  rotate: true
+  xy: 718, 69
+  size: 110, 114
+  orig: 110, 114
+  offset: 0, 0
+  index: -1

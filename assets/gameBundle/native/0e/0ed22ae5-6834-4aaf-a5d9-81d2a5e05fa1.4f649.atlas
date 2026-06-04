@@ -1,0 +1,216 @@
+
+lalian_xiao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shangdi_hong
+  rotate: false
+  xy: 349, 352
+  size: 345, 34
+  orig: 345, 34
+  offset: 0, 0
+  index: -1
+shangdi_huang
+  rotate: false
+  xy: 349, 316
+  size: 345, 34
+  orig: 345, 34
+  offset: 0, 0
+  index: -1
+shangdi_lan
+  rotate: false
+  xy: 2, 240
+  size: 345, 34
+  orig: 345, 34
+  offset: 0, 0
+  index: -1
+shangdi_lv
+  rotate: false
+  xy: 2, 276
+  size: 345, 34
+  orig: 345, 34
+  offset: 0, 0
+  index: -1
+shangdi_slan
+  rotate: false
+  xy: 349, 280
+  size: 345, 34
+  orig: 345, 34
+  offset: 0, 0
+  index: -1
+shangdi_zi
+  rotate: false
+  xy: 2, 204
+  size: 345, 34
+  orig: 345, 34
+  offset: 0, 0
+  index: -1
+shanglian_hong
+  rotate: false
+  xy: 696, 426
+  size: 304, 36
+  orig: 304, 36
+  offset: 0, 0
+  index: -1
+shanglian_huang
+  rotate: false
+  xy: 2, 166
+  size: 304, 36
+  orig: 304, 36
+  offset: 0, 0
+  index: -1
+shanglian_lan
+  rotate: false
+  xy: 696, 388
+  size: 304, 36
+  orig: 304, 36
+  offset: 0, 0
+  index: -1
+shanglian_lv
+  rotate: false
+  xy: 349, 242
+  size: 304, 36
+  orig: 304, 36
+  offset: 0, 0
+  index: -1
+shanglian_slan
+  rotate: false
+  xy: 349, 204
+  size: 304, 36
+  orig: 304, 36
+  offset: 0, 0
+  index: -1
+shanglian_zi
+  rotate: false
+  xy: 2, 128
+  size: 304, 36
+  orig: 304, 36
+  offset: 0, 0
+  index: -1
+tou_hong
+  rotate: false
+  xy: 308, 78
+  size: 102, 48
+  orig: 102, 48
+  offset: 0, 0
+  index: -1
+tou_huang
+  rotate: false
+  xy: 412, 78
+  size: 102, 48
+  orig: 102, 48
+  offset: 0, 0
+  index: -1
+tou_lan
+  rotate: false
+  xy: 106, 2
+  size: 102, 48
+  orig: 102, 48
+  offset: 0, 0
+  index: -1
+tou_lv
+  rotate: false
+  xy: 2, 2
+  size: 102, 48
+  orig: 102, 48
+  offset: 0, 0
+  index: -1
+tou_slan
+  rotate: false
+  xy: 516, 78
+  size: 102, 48
+  orig: 102, 48
+  offset: 0, 0
+  index: -1
+tou_zi
+  rotate: false
+  xy: 210, 2
+  size: 102, 48
+  orig: 102, 48
+  offset: 0, 0
+  index: -1
+xiadi_hong
+  rotate: false
+  xy: 2, 426
+  size: 345, 36
+  orig: 345, 36
+  offset: 0, 0
+  index: -1
+xiadi_huang
+  rotate: false
+  xy: 349, 426
+  size: 345, 36
+  orig: 345, 36
+  offset: 0, 0
+  index: -1
+xiadi_lan
+  rotate: false
+  xy: 2, 350
+  size: 345, 36
+  orig: 345, 36
+  offset: 0, 0
+  index: -1
+xiadi_lv
+  rotate: false
+  xy: 2, 388
+  size: 345, 36
+  orig: 345, 36
+  offset: 0, 0
+  index: -1
+xiadi_slan
+  rotate: false
+  xy: 349, 388
+  size: 345, 36
+  orig: 345, 36
+  offset: 0, 0
+  index: -1
+xiadi_zi
+  rotate: false
+  xy: 2, 312
+  size: 345, 36
+  orig: 345, 36
+  offset: 0, 0
+  index: -1
+xialian_hong
+  rotate: false
+  xy: 308, 166
+  size: 304, 36
+  orig: 304, 36
+  offset: 0, 0
+  index: -1
+xialian_huang
+  rotate: false
+  xy: 2, 90
+  size: 304, 36
+  orig: 304, 36
+  offset: 0, 0
+  index: -1
+xialian_lan
+  rotate: false
+  xy: 308, 128
+  size: 304, 36
+  orig: 304, 36
+  offset: 0, 0
+  index: -1
+xialian_lv
+  rotate: false
+  xy: 696, 350
+  size: 304, 36
+  orig: 304, 36
+  offset: 0, 0
+  index: -1
+xialian_slan
+  rotate: false
+  xy: 696, 312
+  size: 304, 36
+  orig: 304, 36
+  offset: 0, 0
+  index: -1
+xialian_zi
+  rotate: false
+  xy: 2, 52
+  size: 304, 36
+  orig: 304, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+guowang9.png
+size: 425,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangpijian
+  rotate: false
+  xy: 123, 225
+  size: 151, 82
+  orig: 151, 82
+  offset: 0, 0
+  index: -1
+bangshenti
+  rotate: false
+  xy: 2, 122
+  size: 119, 185
+  orig: 119, 185
+  offset: 0, 0
+  index: -1
+bangtui1
+  rotate: true
+  xy: 123, 80
+  size: 69, 126
+  orig: 69, 126
+  offset: 0, 0
+  index: -1
+bangtui2
+  rotate: true
+  xy: 276, 180
+  size: 70, 126
+  orig: 70, 126
+  offset: 0, 0
+  index: -1
+bangyoushou
+  rotate: true
+  xy: 123, 151
+  size: 72, 144
+  orig: 72, 144
+  offset: 0, 0
+  index: -1
+bangzuoshou
+  rotate: true
+  xy: 276, 252
+  size: 55, 147
+  orig: 55, 147
+  offset: 0, 0
+  index: -1
+biaoqing1
+  rotate: true
+  xy: 358, 101
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+biaoqing2
+  rotate: false
+  xy: 114, 2
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+biaoqingku
+  rotate: true
+  xy: 194, 6
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+biaoqingxiao
+  rotate: false
+  xy: 258, 49
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: false
+  xy: 269, 115
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 5
+  size: 110, 115
+  orig: 110, 115
+  offset: 0, 0
+  index: -1

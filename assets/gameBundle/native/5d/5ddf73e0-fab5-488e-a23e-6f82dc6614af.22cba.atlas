@@ -1,0 +1,62 @@
+
+kuchanan19.png
+size: 301,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kucha6haipa
+  rotate: false
+  xy: 202, 11
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+kucha6ku
+  rotate: false
+  xy: 202, 89
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+kucha6tou
+  rotate: false
+  xy: 2, 57
+  size: 116, 115
+  orig: 116, 115
+  offset: 0, 0
+  index: -1
+kucha6xiao
+  rotate: false
+  xy: 227, 231
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+l_shenti
+  rotate: false
+  xy: 120, 71
+  size: 80, 101
+  orig: 80, 101
+  offset: 0, 0
+  index: -1
+l_shoubizhi
+  rotate: true
+  xy: 2, 2
+  size: 53, 143
+  orig: 53, 143
+  offset: 0, 0
+  index: -1
+l_tuizhi1
+  rotate: false
+  xy: 2, 241
+  size: 223, 68
+  orig: 223, 68
+  offset: 0, 0
+  index: -1
+l_tuizhi2
+  rotate: false
+  xy: 2, 174
+  size: 214, 65
+  orig: 214, 65
+  offset: 0, 0
+  index: -1

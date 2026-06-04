@@ -1,0 +1,69 @@
+
+longtou.png
+size: 396,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+linghun
+  rotate: false
+  xy: 324, 33
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+si_tou
+  rotate: true
+  xy: 2, 2
+  size: 103, 125
+  orig: 103, 125
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 129, 2
+  size: 103, 112
+  orig: 103, 112
+  offset: 0, 0
+  index: -1
+xiae
+  rotate: false
+  xy: 243, 16
+  size: 79, 89
+  orig: 79, 89
+  offset: 0, 0
+  index: -1
+yachi
+  rotate: true
+  xy: 368, 43
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+yan_you
+  rotate: false
+  xy: 368, 15
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+yan_zuo
+  rotate: false
+  xy: 324, 5
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+yanzhu_you
+  rotate: false
+  xy: 243, 7
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+yanzhu_zuo
+  rotate: false
+  xy: 352, 24
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1

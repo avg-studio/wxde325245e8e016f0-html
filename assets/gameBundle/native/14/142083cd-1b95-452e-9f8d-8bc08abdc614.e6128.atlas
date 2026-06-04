@@ -1,0 +1,118 @@
+
+nvwang1.png
+size: 281,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erhuan
+  rotate: true
+  xy: 215, 52
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+erhuan2
+  rotate: true
+  xy: 215, 43
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+haipa
+  rotate: false
+  xy: 2, 5
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: true
+  xy: 87, 12
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 112, 11
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+shengzihou
+  rotate: true
+  xy: 2, 31
+  size: 7, 83
+  orig: 7, 83
+  offset: 0, 0
+  index: -1
+shengziqian
+  rotate: true
+  xy: 162, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 2, 40
+  size: 29, 108
+  orig: 29, 108
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 2, 71
+  size: 30, 108
+  orig: 30, 108
+  offset: 0, 0
+  index: -1
+siwang
+  rotate: false
+  xy: 30, 8
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: true
+  xy: 166, 21
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 223, 27
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 112, 53
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+toufahou
+  rotate: false
+  xy: 166, 61
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 2, 103
+  size: 277, 37
+  orig: 277, 37
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 223, 67
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1

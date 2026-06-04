@@ -1,0 +1,13 @@
+
+nan1.png
+size: 254,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ren1
+  rotate: false
+  xy: 2, 2
+  size: 250, 251
+  orig: 250, 251
+  offset: 0, 0
+  index: -1

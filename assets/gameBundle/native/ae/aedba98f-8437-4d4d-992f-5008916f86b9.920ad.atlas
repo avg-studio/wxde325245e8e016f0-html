@@ -1,0 +1,13 @@
+
+nan3.png
+size: 92,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ren3
+  rotate: false
+  xy: 2, 2
+  size: 88, 263
+  orig: 88, 263
+  offset: 0, 0
+  index: -1

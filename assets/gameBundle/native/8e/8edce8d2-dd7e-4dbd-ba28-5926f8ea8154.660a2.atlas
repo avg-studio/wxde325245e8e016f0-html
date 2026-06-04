@@ -1,0 +1,62 @@
+
+shuihu_xiao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiwu3
+  rotate: false
+  xy: 2, 17
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+deng2
+  rotate: false
+  xy: 58, 58
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+dengl
+  rotate: false
+  xy: 594, 212
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+huanghu
+  rotate: false
+  xy: 150, 69
+  size: 146, 170
+  orig: 146, 170
+  offset: 0, 0
+  index: -1
+lanhu
+  rotate: false
+  xy: 2, 69
+  size: 146, 170
+  orig: 146, 170
+  offset: 0, 0
+  index: -1
+lvhu
+  rotate: false
+  xy: 298, 69
+  size: 146, 170
+  orig: 146, 170
+  offset: 0, 0
+  index: -1
+shuihudenglv
+  rotate: false
+  xy: 2, 2
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+zihu
+  rotate: false
+  xy: 446, 69
+  size: 146, 170
+  orig: 146, 170
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,244 @@
+
+kaihua.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faya_jing
+  rotate: true
+  xy: 552, 98
+  size: 28, 72
+  orig: 28, 72
+  offset: 0, 0
+  index: -1
+faya_zuoye
+  rotate: false
+  xy: 39, 3
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+huabao_hong
+  rotate: false
+  xy: 489, 76
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+huabao_huang
+  rotate: true
+  xy: 626, 93
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+huabao_lan
+  rotate: true
+  xy: 685, 102
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+huapen_hong
+  rotate: false
+  xy: 266, 26
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+huapen_huang
+  rotate: false
+  xy: 2, 26
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+huaya_youye
+  rotate: false
+  xy: 2, 2
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+kaihua_hong1
+  rotate: false
+  xy: 743, 94
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+kaihua_hong10
+  rotate: false
+  xy: 140, 9
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+kaihua_hong12
+  rotate: false
+  xy: 904, 102
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+kaihua_hong13
+  rotate: false
+  xy: 622, 66
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+kaihua_hong14
+  rotate: false
+  xy: 864, 99
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+kaihua_hong2
+  rotate: true
+  xy: 785, 97
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+kaihua_hong3
+  rotate: false
+  xy: 825, 98
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+kaihua_hong4
+  rotate: false
+  xy: 945, 95
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+kaihua_hong5
+  rotate: true
+  xy: 614, 38
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+kaihua_hong6
+  rotate: false
+  xy: 551, 42
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+kaihua_hong7
+  rotate: false
+  xy: 526, 47
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+kaihua_hong8
+  rotate: false
+  xy: 643, 38
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+kaihua_hong9
+  rotate: false
+  xy: 552, 71
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+kaihua_honh11
+  rotate: false
+  xy: 166, 6
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+kaihua_huang1
+  rotate: false
+  xy: 109, 5
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+kaihua_huang2
+  rotate: false
+  xy: 76, 3
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+kaihua_huang3
+  rotate: false
+  xy: 653, 66
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+kaihua_huang4
+  rotate: true
+  xy: 468, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+kaihua_huang5
+  rotate: true
+  xy: 583, 42
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+kaihua_huang6
+  rotate: false
+  xy: 494, 44
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+kaihua_huang7
+  rotate: false
+  xy: 588, 71
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+kaihua_huang8
+  rotate: false
+  xy: 468, 30
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+kaihua_huang9
+  rotate: false
+  xy: 981, 95
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+kaihua_lan
+  rotate: false
+  xy: 398, 63
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+lan
+  rotate: false
+  xy: 134, 26
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+ya
+  rotate: false
+  xy: 398, 2
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
